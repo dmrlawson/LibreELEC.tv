@@ -4,7 +4,7 @@
 PKG_NAME="rpi-eeprom"
 PKG_VERSION="0e7da7ecd84cdf7b65d6fc8d43446aee665187dc"
 PKG_SHA256="d33d29f377217909f3fd4e41a8bdeeed0c2c5ce828947aaf21f593dbab2c9521"
-PKG_ARCH="arm"
+PKG_ARCH="arm aarch64"
 PKG_LICENSE="BSD-3/custom"
 PKG_SITE="https://github.com/raspberrypi/rpi-eeprom"
 PKG_URL="https://github.com/raspberrypi/rpi-eeprom/archive/${PKG_VERSION}.tar.gz"
